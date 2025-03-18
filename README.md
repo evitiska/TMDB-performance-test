@@ -12,6 +12,8 @@ The suite is built using [Locust](https://locust.io/). It contains a few preset 
 All of these presets use a relatively small amount of users, as to not cause too much unwanted traffic on TMDB's API.
 
 
+[Example HTML report of a spike test](https://github.com/evitiska/TMDB-performance-test/blob/main/reports/example-report-spike.html)
+
 
 ### Running the tests
 ---
